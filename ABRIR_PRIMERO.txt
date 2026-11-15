@@ -1,0 +1,8 @@
+SPHEREVISION — Cómo abrir
+
+1. Descarga este ZIP y pulsa “Extraer todo”.
+2. Abre la carpeta nueva que se crea.
+3. Haz doble clic en “ABRIR SPHEREVISION”.
+4. Espera a que se abra el navegador. Deja abierta la ventana negra mientras uses la app.
+
+No abras “app.js” ni “index.html” por separado; son componentes internos.
